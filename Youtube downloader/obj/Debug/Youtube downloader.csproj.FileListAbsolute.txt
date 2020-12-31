@@ -1,0 +1,83 @@
+E:\Git\Youtube downloader\Youtube downloader\bin\Debug\Youtube downloader.exe.config
+E:\Git\Youtube downloader\Youtube downloader\bin\Debug\Youtube downloader.exe
+E:\Git\Youtube downloader\Youtube downloader\bin\Debug\Youtube downloader.pdb
+E:\Git\Youtube downloader\Youtube downloader\bin\Debug\Newtonsoft.Json.dll
+E:\Git\Youtube downloader\Youtube downloader\bin\Debug\Newtonsoft.Json.xml
+E:\Git\Youtube downloader\Youtube downloader\obj\Debug\Youtube downloader.csprojAssemblyReference.cache
+E:\Git\Youtube downloader\Youtube downloader\obj\Debug\Youtube_downloader.Form1.resources
+E:\Git\Youtube downloader\Youtube downloader\obj\Debug\Youtube_downloader.Properties.Resources.resources
+E:\Git\Youtube downloader\Youtube downloader\obj\Debug\Youtube downloader.csproj.GenerateResource.cache
+E:\Git\Youtube downloader\Youtube downloader\obj\Debug\Youtube downloader.csproj.CoreCompileInputs.cache
+E:\Git\Youtube downloader\Youtube downloader\obj\Debug\Youtube downloader.csproj.CopyComplete
+E:\Git\Youtube downloader\Youtube downloader\obj\Debug\Youtube downloader.exe
+E:\Git\Youtube downloader\Youtube downloader\obj\Debug\Youtube downloader.pdb
+E:\Git\Youtube downloader\Youtube downloader\bin\Debug\AngleSharp.dll
+E:\Git\Youtube downloader\Youtube downloader\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Git\Youtube downloader\Youtube downloader\bin\Debug\System.Buffers.dll
+E:\Git\Youtube downloader\Youtube downloader\bin\Debug\System.Memory.dll
+E:\Git\Youtube downloader\Youtube downloader\bin\Debug\System.Numerics.Vectors.dll
+E:\Git\Youtube downloader\Youtube downloader\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Git\Youtube downloader\Youtube downloader\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\Git\Youtube downloader\Youtube downloader\bin\Debug\System.Text.Encodings.Web.dll
+E:\Git\Youtube downloader\Youtube downloader\bin\Debug\System.Text.Json.dll
+E:\Git\Youtube downloader\Youtube downloader\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Git\Youtube downloader\Youtube downloader\bin\Debug\System.ValueTuple.dll
+E:\Git\Youtube downloader\Youtube downloader\bin\Debug\YoutubeExplode.dll
+E:\Git\Youtube downloader\Youtube downloader\bin\Debug\AngleSharp.xml
+E:\Git\Youtube downloader\Youtube downloader\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Git\Youtube downloader\Youtube downloader\bin\Debug\System.Buffers.xml
+E:\Git\Youtube downloader\Youtube downloader\bin\Debug\System.Memory.xml
+E:\Git\Youtube downloader\Youtube downloader\bin\Debug\System.Numerics.Vectors.xml
+E:\Git\Youtube downloader\Youtube downloader\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Git\Youtube downloader\Youtube downloader\bin\Debug\System.Text.Encodings.Web.xml
+E:\Git\Youtube downloader\Youtube downloader\bin\Debug\System.Text.Json.xml
+E:\Git\Youtube downloader\Youtube downloader\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Git\Youtube downloader\Youtube downloader\bin\Debug\System.ValueTuple.xml
+E:\Git\Youtube downloader\Youtube downloader\bin\Debug\YoutubeExplode.xml
+E:\Git\Youtube downloader\Youtube downloader\bin\Debug\CliWrap.dll
+E:\Git\Youtube downloader\Youtube downloader\bin\Debug\YoutubeExplode.Converter.dll
+E:\Git\Youtube downloader\Youtube downloader\bin\Debug\CliWrap.xml
+E:\Git\Youtube downloader\Youtube downloader\bin\Debug\YoutubeExplode.Converter.xml
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\Youtube downloader.exe.config
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\Youtube downloader.exe
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\Youtube downloader.pdb
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\AngleSharp.dll
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\CliWrap.dll
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\libvideo.dll
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\Newtonsoft.Json.dll
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\System.Buffers.dll
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\System.Memory.dll
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\System.Numerics.Vectors.dll
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\System.Text.Encodings.Web.dll
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\System.Text.Json.dll
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\System.ValueTuple.dll
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\YoutubeExplode.Converter.dll
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\YoutubeExplode.dll
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\AngleSharp.xml
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\CliWrap.xml
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\Newtonsoft.Json.xml
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\System.Buffers.xml
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\System.Memory.xml
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\System.Numerics.Vectors.xml
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\System.Text.Encodings.Web.xml
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\System.Text.Json.xml
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\System.ValueTuple.xml
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\YoutubeExplode.xml
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\bin\Debug\YoutubeExplode.Converter.xml
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\obj\Debug\Youtube downloader.csprojAssemblyReference.cache
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\obj\Debug\Youtube_downloader.Form1.resources
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\obj\Debug\Youtube_downloader.Properties.Resources.resources
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\obj\Debug\Youtube downloader.csproj.GenerateResource.cache
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\obj\Debug\Youtube downloader.csproj.CoreCompileInputs.cache
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\obj\Debug\Youtube downloader.csproj.CopyComplete
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\obj\Debug\Youtube downloader.exe
+E:\Neuer Ordner\Youtube-downloader\Youtube downloader\obj\Debug\Youtube downloader.pdb
